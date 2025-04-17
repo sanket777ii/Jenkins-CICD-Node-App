@@ -1,7 +1,7 @@
 pipeline {
     agent any
      environment {
-        AWS_ACCOUNT_ID = "339712822600"
+        AWS_ACCOUNT_ID = "901539331928"
         AWS_DEFAULT_REGION = "ap-south-1"
         IMAGENAME = "node-app-test-new"
         IMAGE_REPO_NAME = "nodejs"
